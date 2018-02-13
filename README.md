@@ -1,4 +1,4 @@
-# go-i3bar-protocol [![GoDoc](https://godoc.org/github.com/seankhliao/go-nord?status.svg)](https://godoc.org/github.com/seankhliao/go-nord) [![Build Status](https://img.shields.io/travis/seankhliao/go-nord.svg?style=flat-square)](https://travis-ci.org/seankhliao/go-nord) [![Go Report Card](https://goreportcard.com/badge/github.com/seankhliao/go-nord)](https://goreportcard.com/report/github.com/seankhliao/go-nord)
+# go-i3bar-protocol [![GoDoc](https://godoc.org/github.com/seankhliao/go-i3bar-protocol?status.svg)](https://godoc.org/github.com/seankhliao/go-i3bar-protocol) [![Build Status](https://img.shields.io/travis/seankhliao/go-i3bar-protocol.svg?style=flat-square)](https://travis-ci.org/seankhliao/go-i3bar-protocol) [![Go Report Card](https://goreportcard.com/badge/github.com/seankhliao/go-i3bar-protocol)](https://goreportcard.com/report/github.com/seankhliao/go-i3bar-protocol)
 
 Go types for use with [i3bar](https://i3wm.org/docs/i3bar-protocol.html)
 
