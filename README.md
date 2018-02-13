@@ -39,4 +39,4 @@ func main() {
 
 ## License
 
-The MIT License (MIT) - see [`LICENSE.md`](LICENSE.md) for more details
+The MIT License (MIT) - see [`LICENSE`](LICENSE) for more details
